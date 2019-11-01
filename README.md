@@ -3,10 +3,12 @@ todo管理アプリのリバースプロキシ（nginx）
 
 ## Description
 フロントエンドからのリクエストをバックエンドのAPIサーバにルーティングする
+
 ECSタスクとして稼働させAPIエンドポイントはService Discoveryで設定したローカルドメインを使用
 
 ## todo管理アプリ
 以下参照
+
 [todo管理アプリについて](https://www.notion.so/prmcy/ToDo-14f83b283c4b4bd088ee9f11ebe5be13)
 
 ## Usage
